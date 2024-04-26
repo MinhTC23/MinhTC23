@@ -1,1 +1,1 @@
-<img src="./profile.svg" />
+<img src="./giphy.gif" />
